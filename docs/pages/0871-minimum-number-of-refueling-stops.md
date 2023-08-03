@@ -1,8 +1,8 @@
-package _0871_minimum_number_of_refueling_stops;
+# 871. Minimum Number of Refueling Stops
 
-import java.util.PriorityQueue;
-import java.util.Queue;
+### Code
 
+```java copy showLineNumbers filename="Solution.java"
 class Solution {
     public int minRefuelStops(int target, int startFuel, int[][] stations) {
         Queue<int[]> queue = new PriorityQueue<>((a, b) -> b[1] - a[1]);
@@ -26,3 +26,4 @@ class Solution {
         return refuels;
     }
 }
+```

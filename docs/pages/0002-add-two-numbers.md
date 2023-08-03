@@ -1,5 +1,8 @@
-package _0002_add_two_numbers;
+# 2. Add Two Numbers
 
+### Code
+
+```java copy showLineNumbers filename="Solution.java"
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -42,3 +45,4 @@ class Solution {
         return root.next;
     }
 }
+```
