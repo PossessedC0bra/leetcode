@@ -1,7 +1,5 @@
 # 13. Roman to Integer
 
-### Code
-
 ```java copy showLineNumbers filename="Solution.java"
 class Solution {
     private static final int[] VALUES = new int[]{1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000};

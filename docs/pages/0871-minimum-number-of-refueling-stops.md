@@ -1,7 +1,5 @@
 # 871. Minimum Number of Refueling Stops
 
-### Code
-
 ```java copy showLineNumbers filename="Solution.java"
 class Solution {
     public int minRefuelStops(int target, int startFuel, int[][] stations) {

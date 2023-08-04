@@ -1,7 +1,5 @@
 # 2. Add Two Numbers
 
-### Code
-
 ```java copy showLineNumbers filename="Solution.java"
 /**
  * Definition for singly-linked list.
