@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.1.2",
+    "@vercel/speed-insights": "^1.0.9",
     "next": "^13.4.12",
     "nextra": "^2.10.0",
     "nextra-theme-docs": "^2.10.0",
